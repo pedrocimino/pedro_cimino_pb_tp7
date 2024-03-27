@@ -1,0 +1,28 @@
+.card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 16px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.author {
+  font-size: 1rem;
+  color: #666;
+}
+
+.genre {
+  font-size: 1rem;
+  color: #666;
+}
+
+ul {
+  list-style-type: none;
+}
